@@ -1,0 +1,4 @@
+# Contius Delivery Test block
+---
+!include 'build/Test/test.yaml'
+
