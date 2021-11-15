@@ -5,10 +5,8 @@ plan:
   project-key: TYS
   name: Test 
 repositories:
-  - test2:
-    scope: global
-  - test:
-    scope: global
+  - test2
+  - test
 
   # Установил тут дефолтный репозиторий, посмотрим, как оно разродится
 
